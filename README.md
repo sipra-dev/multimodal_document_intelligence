@@ -1,17 +1,17 @@
 📄 Multimodal Document Intelligence System
 
 
-An AI-powered multimodal document processing system that combines OCR, Vision Language Models, Machine Learning classification, and structured extraction to intelligently analyze business documents.
+    An AI-powered multimodal document processing system that combines OCR, Vision Language Models, Machine Learning classification, and structured extraction to intelligently analyze business documents.
 
 The system can automatically process and understand:
 
-Supplier Invoices
-
-Sales Receipts
-
-Inventory Reports
-
-Analytics Reports
+    Supplier Invoices
+    
+    Sales Receipts
+    
+    Inventory Reports
+    
+    Analytics Reports
 
 
 Built using OpenAI Vision models, OCR pipelines, Scikit-learn classification, Pydantic validation, and Streamlit.
