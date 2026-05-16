@@ -118,6 +118,7 @@ Built using OpenAI Vision models, OCR pipelines, Scikit-learn classification, Py
         Purchase summary
         Taxes
         Product information
+        
     Inventory Report
 
         Extracts:
@@ -133,7 +134,9 @@ Built using OpenAI Vision models, OCR pipelines, Scikit-learn classification, Py
         Metrics
         Business insights
         Analytical summaries
-        ⚡ Human-in-the-Loop (HITL)
+
+        
+⚡ Human-in-the-Loop (HITL)
 
 If the classifier confidence falls below the threshold:
 
